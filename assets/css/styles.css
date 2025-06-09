@@ -1,0 +1,19 @@
+form.card {
+    display: none;
+}
+
+.table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table th, .table td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.break-word {
+  white-space: normal !important;
+  word-break: break-word;
+}
