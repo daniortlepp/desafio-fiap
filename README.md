@@ -56,7 +56,3 @@ Usuário administrador padrão:
 E-mail: admin@fiap.com.br
 Senha: UY3N*nqe8QnD18P
 
-### Tecnologias Utilizadas
-PHP >= 7.4
-MySQL
-Bootstrap 5
