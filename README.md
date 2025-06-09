@@ -6,7 +6,7 @@ Sistema administrativo para gestão de alunos, turmas e matrículas, desenvolvid
 1) Clone o repositório:
 
 ```zsh
-git clone https://github.com/danyortlepp/desafio_fiap.git
+git clone https://github.com/daniortlepp/desafio-fiap.git
 cd seu-repositorio
 ```
 
